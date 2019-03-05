@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="CompareTwoFiles">
+        <abbreviation name=":cf" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
