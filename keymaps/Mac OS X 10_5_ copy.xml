@@ -24,11 +24,19 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="meta at" second-keystroke="t" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta at" second-keystroke="r" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="editRunConfigurations">
-    <keyboard-shortcut first-keystroke="meta alt comma" />
+    <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
 </keymap>
