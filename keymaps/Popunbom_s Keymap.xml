@@ -18,6 +18,7 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoRelated" />
+  <action id="IpnbRunAllCellsAction" />
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
@@ -27,9 +28,23 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
-  <action id="RenameElement" />
+  <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun" />
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
