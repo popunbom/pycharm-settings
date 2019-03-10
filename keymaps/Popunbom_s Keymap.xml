@@ -25,6 +25,9 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="meta at" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
