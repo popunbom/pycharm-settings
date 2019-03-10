@@ -25,12 +25,11 @@
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="ctrl t" />
-    <keyboard-shortcut first-keystroke="meta at" second-keystroke="t" />
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift f6" />
-    <keyboard-shortcut first-keystroke="meta at" second-keystroke="r" />
+  <action id="RenameElement" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
