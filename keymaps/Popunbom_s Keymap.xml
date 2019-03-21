@@ -30,14 +30,40 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
-  <action id="EditorResetFontSize">
-    <keyboard-shortcut first-keystroke="meta 0" />
-  </action>
-  <action id="EditorScrollBottom">
+  <action id="EditorMoveToPageBottom">
+    <keyboard-shortcut first-keystroke="meta page_down" />
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="EditorScrollTop">
+  <action id="EditorMoveToPageBottomWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta page_down" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorMoveToPageTop">
+    <keyboard-shortcut first-keystroke="meta page_up" />
     <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorMoveToPageTopWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta page_up" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorPageDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_down" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorPageUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_up" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoRelated" />
@@ -63,6 +89,8 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
