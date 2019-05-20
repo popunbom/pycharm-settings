@@ -4,7 +4,7 @@
     <property name="created">2019-03-05T23:25:19</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-03-05T23:33:46</property>
+    <property name="modified">2019-03-20T13:20:48</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -359,6 +359,11 @@
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="536c46" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
