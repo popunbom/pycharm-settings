@@ -1,16 +1,24 @@
 <keymap version="1" name="Popunbom's Keymap" parent="Mac OS X 10.5+">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
   <action id="CollapseAll" />
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="CollapseRegion" />
   <action id="CompareTwoFiles" />
+  <action id="CopyPaths" />
   <action id="CreateRunConfiguration">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
