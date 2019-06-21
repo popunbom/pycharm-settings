@@ -65,7 +65,15 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="GotoRelated" />
   <action id="IpnbRunAllCellsAction" />
   <action id="MoveLineDown">
@@ -76,6 +84,9 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="meta at" />
   </action>
