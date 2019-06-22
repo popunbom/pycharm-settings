@@ -1,29 +1,20 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="arrowsStyle" value="Darcula" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
-    <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="treeFontSizeEnabled" value="true" />
-    <option name="customSidebarHeight" value="20" />
-    <option name="tabOpacity" value="49" />
-    <option name="indicatorThickness" value="4" />
-    <option name="leftTreeIndent" value="10" />
+    <option name="customSidebarHeight" value="24" />
     <option name="settingsSelectedTab" value="3" />
-    <option name="tabsHeight" value="21" />
-    <option name="accentColor" value="2979ff" />
-    <option name="highlightColor" value="df0075" />
-    <option name="selectedTheme" value="ONE_DARK" />
-    <option name="userId" value="-505f09be:1694e3e98b1:-8000" />
+    <option name="tabsHeight" value="32" />
+    <option name="accentColor" value="5fbf3e" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="415cbb83:16ad358aac4:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
 </application>
