@@ -134,6 +134,9 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="SplitSelectionIntoLines">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
