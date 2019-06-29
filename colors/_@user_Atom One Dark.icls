@@ -4,7 +4,7 @@
     <property name="created">2018-07-21T23:52:33</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-07-21T23:54:50</property>
+    <property name="modified">2019-06-29T13:04:24</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -202,7 +202,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4b1515" />
+        <option name="BACKGROUND" value="380f0f" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -406,7 +406,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="a6b2c0" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -808,7 +807,8 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="264b33" />
+        <option name="FOREGROUND" value="80808" />
+        <option name="BACKGROUND" value="2cbf00" />
       </value>
     </option>
     <option name="Enum name">
