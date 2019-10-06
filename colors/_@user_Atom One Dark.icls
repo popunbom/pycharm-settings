@@ -4,7 +4,7 @@
     <property name="created">2018-07-21T23:52:33</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2019-10-05T13:27:39</property>
+    <property name="modified">2019-10-06T23:34:20</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -360,9 +360,14 @@
         <option name="FOREGROUND" value="536c46" />
       </value>
     </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5aa0ff" />
+      </value>
+    </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="33cccc" />
+        <option name="FOREGROUND" value="3df4f4" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -377,7 +382,7 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7f00" />
+        <option name="FOREGROUND" value="c100" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -415,7 +420,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cdcd00" />
+        <option name="FOREGROUND" value="e4e400" />
       </value>
     </option>
     <option name="CSS.COLOR">
