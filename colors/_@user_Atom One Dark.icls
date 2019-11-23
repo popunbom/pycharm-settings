@@ -4,7 +4,7 @@
     <property name="created">2018-07-21T23:52:33</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2019-10-10T18:56:26</property>
+    <property name="modified">2019-11-19T10:57:23</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -516,7 +516,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="367f61" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -639,7 +639,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="367f61" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2760,12 +2760,6 @@
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="d19a66" />
-      </value>
-    </option>
-    <option name="PY.LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.NUMBER">
