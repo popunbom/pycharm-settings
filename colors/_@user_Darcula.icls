@@ -3,7 +3,7 @@
     <property name="created">2019-10-21T11:59:49</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-11-19T10:57:23</property>
+    <property name="modified">2019-12-08T18:26:04</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -18,7 +18,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a7700" />
     <option name="FILESTATUS_MERGED" value="61aeef" />
     <option name="FILESTATUS_MODIFIED" value="e2c08d" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
