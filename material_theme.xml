@@ -2,22 +2,16 @@
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="customSidebarHeight" value="22" />
-    <option name="tabOpacity" value="100" />
-    <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="customSidebarHeight" value="24" />
     <option name="tabsHeight" value="24" />
-    <option name="accentColor" value="5fbf3e" />
-    <option name="highlightColor" value="6aef46" />
+    <option name="accentColor" value="009fe9" />
     <option name="selectedTheme" value="ONE_DARK" />
-    <option name="userId" value="415cbb83:16ad358aac4:-8000" />
+    <option name="userId" value="-525ca705:16ee4d4bdee:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
 </application>

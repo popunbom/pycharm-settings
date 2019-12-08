@@ -6,6 +6,7 @@
     <option name="DICT_ALIGNMENT" value="2" />
     <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
     <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
+    <option name="BLANK_LINES_AFTER_LOCAL_IMPORTS" value="1" />
     <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
     <option name="FROM_IMPORT_NEW_LINE_AFTER_LEFT_PARENTHESIS" value="true" />
@@ -17,8 +18,6 @@
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="2" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="2" />
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
-    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
