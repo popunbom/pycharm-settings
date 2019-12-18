@@ -18,6 +18,7 @@
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="2" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="2" />
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
